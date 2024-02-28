@@ -1,179 +1,213 @@
-<!-- saved from url=(0046)file:///C:/Users/ASUS/Downloads/cobahtml2.html -->
-<html lang="en">
-  <head>
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-    <title>Tugas PWD</title>
-    <link rel="stylesheet" href="file:///C:/Users/ASUS/Downloads/style.css" />
-    <link
-      rel="shortcut icon"
-      href="file:///C:/Users/ASUS/Downloads/icon.svg"
-      type="image/svg"
-    />
-  </head>
+<!DOCTYPE html>
+<html>
+<title>Tugas 2</title>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css" />
+<link rel="stylesheet" href="https://badoystudio.com/cloudme.fonts.googleapis.com/css?family=Roboto" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
+<style>
+    html,
+    body,
+    h1,
+    h2,
+    h3,
+    h4,
+    h5 h6 {
+        font-family: "Roboto", sans-serif;
+    }
+</style>
 
-  <body>
-    <center>
-      <div style="background-color: rgb(153, 29, 29)">
-        <br />
-        <h1 style="color: bisque">Tentang Saya</h1>
-        <img
-          src="./Tugas PWD_files/Turning-Red-Disneyplus.png"
-          alt="gambar profil"
-          width="200"
-          height="200"
-        />
-        <p style="color: bisque">
-          Hallo semua!!! Saya adalah seorang panda yang hobby tersenyum.
-          <br />Saat ini kesibukan saya adalah menjadi aktor, mencari daun, dan
-          memainkan serangga. <br />Saya senang berteman dan bertemu dengan
-          banyak orang. <br />
-          Berikut ini adalah informasi data data diri saya: <br />
-        </p>
-        <br />
-        <table style="color: #f2f2f2">
-          <tbody>
-            <tr>
-              <td style="width: 200px"><b>Nama </b></td>
-              <td>: Ling the Red Panda</td>
-            </tr>
-            <tr>
-              <td><b>Tempat, Tanggal Lahir </b></td>
-              <td>: PandaCity, 23 June 2005</td>
-            </tr>
-            <tr>
-              <td><b>Hobby</b></td>
-              <td>: Memanjat, Berenang, Memainkan Serangga</td>
-            </tr>
-          </tbody>
-        </table>
-        <br />
-        <br />
-        <br />
-      </div>
-    </center>
+<body class="w3-black">
+    <!-- Page Container -->
+    <div class="w3-content w3-margin-top" style="max-width: 1600px">
+        <!-- The Grid -->
+        <div class="w3-row-padding">
+            <!-- Left Column -->
+            <div class="w3-third">
+                <div class="w3-white w3-text-grey w3-card-4">
+                    <div class="w3-display-container">
+                        <img src="https://i.pinimg.com/originals/cb/c4/24/cbc424654aac0bf9839ed4bf7b7f71f2.jpg"
+                            style="width: 100%" alt="Avatar" />
+                        <div class="w3-display-bottomleft w3-container w3-text-black">
+                            <h2 margin: 1px style="color:aliceblue" class="w3-medium"><span
+                                    class="w3-tag w3-white w3-round"><b style="color:rgb(33, 150, 243)">Jennifer Tandy</b></span></h2>
+                        </div>
+                    </div>
+                    <div class="w3-container">
+                        <style>
+                            p {
+                                font-size: 16px;
+                                color: black
+                            }
+                        </style>
+                        <p><i class="fa fa-briefcase fa-fw w3-margin-right w3-large" style="color:rgb(33, 150, 243)"></i>UI/UX Desainer
+                        </p>
+                        <p><i class="fa fa-home fa-fw w3-margin-right w3-large" style="color:rgb(33, 150, 243)"></i>Pontianak, Kalimabntan
+                            Barat</p>
+                        <p><i class="fa fa-envelope fa-fw w3-margin-right w3-large" style="color:rgb(33, 150, 243)"></i>Email<br>jennifer.tandy1103.com
+                        </p>
 
-    <div>
-      <center>
-        <h1 style="color: brown">Trailler Film Saya</h1>
-      </center>
+                        <p><i class="fa fa-phone fa-fw w3-margin-right w3-large"
+                                style="color:rgb(33, 150, 243)"></i>089912212349</p>
+                        <hr />
+                        <p class="w3-large">
+                            <b style="color:rgb(33, 150, 243)"> <i class="fa fa-asterisk fa-fw w3-margin-right"
+                                    style="color:rgb(33, 150, 243)"></i>Skills </b>
+                        </p>
+                        <p>Figma</p>
+                        <div class="w3-light-grey w3-round-xlarge w3-small">
+                            <div class="w3-container w3-center w3-round-xlarge w3-blue" style="width: 97%">90%</div>
+                        </div>
+                        <p>Adobe Photoshop</p>
+                        <div class="w3-light-grey w3-round-xlarge w3-small">
+                            <div class="w3-container w3-center w3-round-xlarge w3-blue" style="width: 80%">
+                                <div class="w3-center w3-text-white">93%</div>
+                            </div>
+                        </div>
+                        <p>3D Illustrator</p>
+                        <div class="w3-light-grey w3-round-xlarge w3-small">
+                            <div class="w3-container w3-center w3-round-xlarge w3-blue" style="width: 75%">89%</div>
+                        </div>
+                        <p>Final Cut Pro</p>
+                        <div class="w3-light-grey w3-round-xlarge w3-small">
+                            <div class="w3-container w3-center w3-round-xlarge w3-blue" style="width: 50%">78%</div>
+                        </div>
+                        <br />
+                        <p class="w3-large w3-text-theme">
+                            <b style="color:rgb(33, 150, 243)">
+                                <i class="fa fa-globe fa-fw w3-margin-right" style="color:rgb(33, 150, 243)"></i>
+                                Bahasa
+                            </b>
+                        </p>
+                        <p>Indonesia</p>
+                        <div class="w3-light-grey w3-round-xlarge">
+                            <div class="w3-round-xlarge w3-blue" style="height: 24px; width: 100%"></div>
+                        </div>
+                        <p>Inggris</p>
+                        <div class="w3-light-grey w3-round-xlarge">
+                            <div class="w3-round-xlarge w3-blue" style="height: 24px; width: 100%"></div>
+                        </div>
+                        <p>Mandarin</p>
+                        <div class="w3-light-grey w3-round-xlarge">
+                            <div class="w3-round-xlarge w3-blue" style="height: 24px; width: 85%"></div>
+                        </div>
+                        <p>Prancis</p>
+                        <div class="w3-light-grey w3-round-xlarge">
+                            <div class="w3-round-xlarge w3-blue" style="height: 24px; width: 70%"></div>
+                        </div>
+                        <br />
+                        <br />
+                    </div>
+                </div>
+                <br />
+                <!-- End Left Column -->
+            </div>
+            <!-- Right Column -->
+
+            <div class="w3-twothird">
+                <div class="w3-container w3-card w3-white w3-margin-bottom">
+                    <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-suitcase fa-fw w3-margin-right w3- xxlarge"
+                            style="color:rgb(33, 150, 243)"></i><b style="color:rgb(33, 150, 243)">Pengalaman
+                            Kerja</b>
+                    </h2>
+                    <div class="w3-container">
+                        <h5 class="w3-text-blue"></i><span class="w3-tag w3-blue w3-round"><b>H2D
+                                    Design Coperation</b></span></h5>
+                        <h6 class="w3-text-blue"><i><b>Melbourne, Autralia</b></i></h6>
+                        <h7 class="w3-text-blue"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2015 - 2017</h7>
+                        <p>Sebagai intern designer aplikasi yang bekerjasama dalam tim guna merancang dan mengupdate
+                            UI/UX tampilan aplikasi sesuai keinginan client.</p>
+                        <hr />
+                    </div>
+                    <div class="w3-container">
+                        <h5 class="w3-text-blue"></i><span class="w3-tag w3-blue w3-round"><b>STRON Graphic
+                                    Illustrate </b></span></h5>
+                        <h6 class="w3-text-blue"><i><b>Singapore</b></i></h6>
+                        <h7 class="w3-text-blue"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2017 - 2019</h7>
+                        <p>Sebagai tim creative yang bekerjasama dalam tim guna mendesign illustrasi animasi pada
+                            rancangan UI/UX aplikasi atau website yang sesuai keinginan client.</p>
+                        <hr />
+                    </div>
+                    <div class="w3-container">
+                        <h5 class="w3-text-blue"></i><span class="w3-tag w3-blue w3-round"><b>Jones DevGrowth</b></span>
+                        </h5>
+                        <h6 class="w3-text-blue"><i><b>London, United Kingdom</b></i></h6>
+                        <h7 class="w3-text-blue"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2022 - Sekarang
+                        </h7>
+                        <p>Sebagai UI/UX Designer Intern yang bekerjasama dalam berkolaborasi dengan desainer, manajer
+                            produk, dan pengembang untuk membuat konsep dan membuat prototipe UI.</p>
+                        <hr />
+                    </div>
+                </div>
+                <div class="w3-container w3-card w3-white w3-margin-bottom">
+                    <h2 class="w3-text-grey w3-padding-16"><i
+                            class="fa fa-certificate fa-fw w3-margin-right w3- xxlarge"
+                            style="color:rgb(33, 150, 243)"></i><b style="color:rgb(33, 150, 243)">Pendidikan</b>
+                    </h2>
+                    <div class="w3-container">
+                        <h5 class="w3-text-blue"><i class="fa fa-calendar fa-fw w3-margin-right"></i><b>2013 - 2017</b>
+                        </h5>
+                        <h5 class="w3-text-blue"></h5>
+                        <h5 class="w3-text-blue"> <b>Monash University</b></h5>
+                        <h6 class="w3-text-blue"><i><b>Melbourne, Australia</b></i>
+                        </h6>
+                        <p>Bachelor of Information Technology</p>
+                        <hr />
+                    </div>
+                    <div class="w3-container">
+                        <h5 class="w3-text-blue"><i class="fa fa-calendar fa-fw w3-margin-right"></i><b>2019 - 2023</b>
+                        </h5>
+                        <h5 class="w3-text-blue"></h5>
+                        <h5 class="w3-text-blue"> <b>University of
+                                Westminster</b></h5>
+                        <h6 class="w3-text-blue"><i><b>London, United Kingdom</b></i>
+                        </h6>
+                        <p>Master of Information Technology</p>
+                        <hr />
+                    </div>
+                </div>
+                <!-- End Right Column -->
+
+                <div class="w3-container w3-card w3-white">
+                    <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-suitcase fa-fw w3-margin-right w3- xxlarge"
+                            style="color:rgb(33, 150, 243)"></i><b style="color:rgb(33, 150, 243)">Portofolio
+                            Design</b>
+
+                        <div class="w3-container">
+                            <p>View <a style="color:rgb(33, 150, 243)"
+                                    href="https://www.google.com/search?q=portofolio&sca_esv=568551326&sxsrf=AM9HkKmZ1bcMpiVmBfSNX_hHjf6bYAvxmw%3A1695745979366&source=hp&ei=uwcTZZuqE4uTseMPxYeRiAs&iflsig=AO6bgOgAAAAAZRMVyw5NtShp1Z6POwf7MQ_8eRR1E-nB&oq=porto&gs_lp=Egdnd3Mtd2l6IgVwb3J0byoCCAEyChAuGLEDGIoFGEMyCxAAGIAEGLEDGIMBMgoQLhiKBRixAxhDMgsQABiABBixAxiDATIHEC4YigUYQzINEC4YgwEYsQMYigUYQzIHEC4YigUYQzIHEC4YigUYQzIHEC4YigUYQzIHEC4YigUYQ0jFMlD_G1iqJnABeACQAQCYAZ8BoAH9BKoBAzEuNLgBAcgBAPgBAagCCsICBxAjGOoCGCfCAg0QLhjHARjRAxjqAhgnwgIEECMYJ8ICBxAjGIoFGCfCAgsQLhiABBixAxiDAcICBxAAGIoFGEPCAgkQABiKBRgKGEPCAgUQABiABMICDRAuGIoFGMcBGNEDGEPCAg0QABiKBRixAxiDARhDwgIIEC4YgAQYsQPCAgsQLhiKBRixAxiDAcICCBAAGIAEGLED&sclient=gws-wiz"
+                                    target="_blank">portofolio saya</a> untuk melihat detail portofolio design.</p>
+
+                        </div>
+
+                    </h2>
+                </div>
+            </div>
+
+            <!-- End Grid -->
+        </div>
+        <!-- End Page Container -->
     </div>
+    <footer class="w3-container w3-blue w3-center w3-margin-top">
+        <p style="color:aliceblue">Media Sosial</p>
+        <a href="https://www.facebook.com" target="_blank">
+            <i class="fa fa-facebook-official w3-hover-opacity"></i>
+        </a>
 
-    <div
-      style="
-        background-image: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/27c6be7d-1589-4d9a-a516-417a33bd73c8/df0tqhf-6b4fbcf6-9cc9-4bab-90aa-1f7f5d9e207e.jpg/v1/fit/w_828,h_518,q_70,strp/turning_red___wallpaper_by_toukmeasaw_df0tqhf-414w-2x.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODAwIiwicGF0aCI6IlwvZlwvMjdjNmJlN2QtMTU4OS00ZDlhLWE1MTYtNDE3YTMzYmQ3M2M4XC9kZjB0cWhmLTZiNGZiY2Y2LTljYzktNGJhYi05MGFhLTFmN2Y1ZDllMjA3ZS5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.NzJ5AlNFJXCGsj64IJSwnvBh8TqiuwygyMjAs6GQhLc);
-        background-repeat: no-repeat;
-        background-size: cover;
-      "
-    >
-      <div>
-        <center>
-          <br />
-          <br />
-          <br /><a
-            href="https://www.youtube.com/watch?v=XdKzUbAiswE"
-            target="”_blank”"
-          >
-            <img
-              src="./Tugas PWD_files/Turning-Red_logotype.png"
-              width="300"
-              height="200"
-              alt="Film-1"
-              title="Film Turning Red"
-          /></a>
-          <br />
-          <br />
-          <p style="color: bisque">
-            "Turning Red" adalah sebuah film animasi yang diproduksi oleh Pixar
-            Animation Studios dan dirilis pada tahun 2022.
+        <a href="https://www.instagram.com" target="_blank">
+            <i style="color:aliceblue" class="fa fa-instagram w3-hover-opacity"></i> </a>
+        <a href="https://www.snapchat.com" target="_blank">
+            <i style="color:aliceblue" class="fa fa-snapchat w3-hover-opacity"></i> </a>
+        <a href="https://www.pinterest.com" target="_blank">
+            <i style="color:aliceblue" class="fa fa-pinterest-p w3-hover-opacity"></i></a>
+        <a href="https://www.twitter.com" target="_blank">
+            <i style="color:aliceblue" class="fa fa-twitter w3-hover-opacity"></i></a>
+        <a href="https://www.linkedin.com" target="_blank">
+            <i style="color:aliceblue" class="fa fa-linkedin w3-hover-opacity"></i></a>
+        <p style="color:aliceblue">Tugas PWD : Copyright by badoystudio.com <a
+                href="https://www.w3schools.com/w3css/default.asp" target="_blank">w3.css</a></p>
+    </footer>
+</body>
 
-            <br />
-            <br />
-            <a href="https://id.wikipedia.org/wiki/Turning_Red" target="_blank">
-            </a>
-          </p>
-          <h2 style="color: bisque">
-            <a href="https://id.wikipedia.org/wiki/Turning_Red" target="_blank"
-              >Informasi Film Turning Red</a
-            >
-          </h2>
-          <a href="https://id.wikipedia.org/wiki/Turning_Red" target="_blank">
-          </a>
-        </center>
-      </div>
-
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-      <br />
-    </div>
-    <form
-      align="center"
-      action="file:///C:/Users/ASUS/Downloads/newsletter.php"
-      method="post"
-      style="
-        background-color: #f2f2f2;
-        padding: 20px;
-        align: center;
-        border-radius: 10px;
-      "
-    >
-      <h1 style="color: brown">Ayo kenalan!!</h1>
-      <div class="form-group">
-        <label for="name" style="color: #333">Nama Lengkap:</label>
-        <input
-          type="text"
-          id="name"
-          name="name"
-          placeholder="Masukkan nama anda"
-          required=""
-          style="padding: 5px; border: 1px solid #ccc; border-radius: 5px"
-        />
-      </div>
-      <br />
-      <div class="form-group">
-        <label for="email" style="color: #333">Email:</label>
-        <input
-          type="email"
-          id="email"
-          name="email"
-          placeholder="Masukkan email anda"
-          required=""
-          style="padding: 5px; border: 1px solid #ccc; border-radius: 5px"
-        />
-      </div>
-      <br />
-      <div class="form-group">
-        <label for="interests" style="color: #333"
-          >Apakah Anda Sudah Menonton Turning Red?</label
-        >
-        <br />
-        <input type="radio" id="belum" name="panda" value="belum" />
-        <label for="belum">Sudah</label><br />
-        <input type="radio" id="belum" name="panda" value="sudah" />
-        <label for="sudah">Belum</label><br />
-
-        <br />
-      </div>
-      <br />
-      <button
-        type="submit"
-        style="
-          background-color: #04aa6d;
-          color: #fff;
-          padding: 10px 40px;
-          border: none;
-          border-radius: 5px;
-          cursor: pointer;
-        "
-      >
-        Kirim
-      </button>
-    </form>
-  </body>
 </html>
